@@ -2,10 +2,10 @@
 
 Please review and follow these steps to complete the installation of IBM SPSS Modeler for your institution. 
 
-# Determine the number of licensed uses required:
+## Determine the number of licensed uses required:
 Identify the number of devices that will be licensed per SPSS License Manager (SLM) installation machine. Request the authorization code(s) be generated from your IBM Academic Initiative Liaison; codes are typically created and returned to you within 72 hours. 
 
-# Download the IBM SPSS License Manager (SLM):
+## Download the IBM SPSS License Manager (SLM):
 Once you have obtained the concurrent machine authorization code from the IBM Academic Initiative,  download the IBM SPSS Concurrent Licensing Manager from this location: 
 
 https://ibm.ent.box.com/s/dvf8z6ek8qkd69uhykju5webtmtwx1pt
@@ -18,7 +18,7 @@ Make your selection based on your **server** operating system:
 
 Each of these downloads is a compressed file that must first be unzipped. 
 
-# Install the SPSS License Manager (SLM):
+## Install the SPSS License Manager (SLM):
 The example below outlines the steps to be taken when installing to a **Windows** server machine: 
 
 
@@ -40,7 +40,7 @@ _NOTE: Once you have installed the license manager and tools, the SLM version is
 
 ![Step 4](images/step4.png)
 
-# License the SPSS License Manager (SLM):
+## License the SPSS License Manager (SLM):
 
 To license the newly installed License Manager, open an administrator command prompt. Change directory to WinNT subfolder (C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager\WinNT) and use the `licenseactivator` command followed by your 20 character network authorization code: 
 
@@ -50,7 +50,7 @@ To complete the licensing process, Stop then Restart the Sentinel License Manage
 
 ![Step 6](images/step6.png)
 
-# Download the IBM SPSS Modeler 18.x Client:
+## Download the IBM SPSS Modeler 18.x Client:
 
 From the IBM Academic Initiative website: (www.ibm.com/academic) download the SPSS Modeler Premium software the file based on OS in use:
 
@@ -66,7 +66,7 @@ Windows OS:
 
 This technote contains additional information on the download, installation and licensing of the SLM: https://www.ibm.com/support/pages/node/6233924
 
-# Install IBM SPSS Modeler 18.2 Client:
+## Install IBM SPSS Modeler 18.x Client:
 
 **To Install the software.** Follow the steps outlined in the IBM SPSS Modeler Premium 18.2 Installation and Configuration Guide found on the SPSS Modeler 18.2 documentation site: https://www.ibm.com/support/pages/spss-modeler-182-documentation. 
 
