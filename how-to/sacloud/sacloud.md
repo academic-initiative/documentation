@@ -1,6 +1,6 @@
 # Creating a new IBM Cloud Trial account and extend the trial duration with an IBM Cloud Feature Code
 
-**Note:** If you already have an IBM Cloud Lite account you can skip to Step 3 to apply the IBM Cloud Feature Code
+**Note:** If you already have an IBM Cloud Lite account you can skip to Step 3 to apply the IBM Cloud Feature Code.  You can check your account type by visiting Manage > Account > Account Settings.  The information will be displayed in the main section of the page.
 
 ### Step 1: Visit [IBM Cloud](https://cloud.ibm.com/registration/trial) and complete the new account registration form.
 
