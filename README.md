@@ -19,4 +19,4 @@ This repository serves as a collection of how-tos and related documentation for 
 - [How to request an IBM Rhapsody license](/how-to/How-to-request-an-IBM-Rhapsody-license/readme.md)
 - [How to request IBM Blueworks Live access](/how-to/How-to-request-IBM-Blueworks-Live-access/readme.md)
 - [How to explore the IBM Academic Initiative Software Catalog](/how-to/How-to-explore-the-IBM-Academic-Initiative-Software-Catalog/readme.md)
-- [Instructions for IBM SPSS Modeler Premium Network Download and Installation](/how-to/spss-map/readme.md)
+- [Instructions for IBM SPSS Modeler Premium Network Download and Installation](/how-to/Instructions-for-IBM-SPSS-Modeler-Premium-Network-Download-and-Installation/readme.md)
