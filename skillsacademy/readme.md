@@ -16,7 +16,7 @@ Your operating system, web browser, and extensions should be up-to-date. Best re
 
 ## Step 1: Cloud Access
 
-If you are in the XXX, YYY. ZZZ courses please use the following instructions to register for [IBM Cloud access](https://github.com/academic-initiative/documentation/blob/main/how-to/sacloud/sacloud.md) otherwise you can skip to Step 2.
+If you are in the XXX, YYY. ZZZ courses please use the following instructions to register for [IBM Cloud access](https://ibm.biz/sacloud) otherwise you can skip to Step 2.
 
 ## Step 2: Design Thinking
 
