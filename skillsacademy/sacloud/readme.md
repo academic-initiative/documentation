@@ -42,7 +42,7 @@ Scroll down until you see the *Subscription and feature code* section and click 
 
 ![image9](images/step9.png)
 
-Enter your IBM Cloud Feature Code into the text box and click on **Apply** 
+Enter your IBM Cloud Feature Code, provided by the event host, into the text box and click on **Apply** 
 
 ![image10](images/step10.png)
 
