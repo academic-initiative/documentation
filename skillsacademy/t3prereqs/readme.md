@@ -69,3 +69,6 @@ https://support.mural.co/en/collections/1571402-tutorials
 - What is MURAL? (1.30 min) 
 - Navigating a MURAL (3:44 min) 
 - Adding content to a MURAL (2:51 min) 
+
+## Support
+For assistance please contact [IBM Skills Academy](ibmsaus@us.ibm.com)
