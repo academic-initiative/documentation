@@ -62,13 +62,13 @@ https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting
 You will receive an email from the Slack Messaging Tool with details to join the slack channel.  Follow the instructions to join and introduce yourself to the channel.  For more information visit: https://slack.com/help/articles/360002034727-gettingstarted-for-guests
 
 ## Step 7: Mural
-We will be using Mural, a visual collaboration platform, and ask that you please review the first (3) videos provided in the link below:
+We will be using Mural, a visual collaboration platform, and ask that you please review the first (3) videos provided in the links below:
 
-https://support.mural.co/en/collections/1571402-tutorials
+https://support.mural.co/en/collections/10034-getting-started
 
-- What is MURAL? (1.30 min) 
-- Navigating a MURAL (3:44 min) 
-- Adding content to a MURAL (2:51 min) 
+- [What is MURAL? (1.30 min)](https://youtu.be/mBFFpsy-RUo)
+- [Navigating a MURAL (3:44 min)](https://youtu.be/uds8lsv-CEQ)
+- [Adding content to a MURAL (2:51 min)](https://youtu.be/CmYaxcTzD6Y)
 
 ## Support
 For assistance please contact [IBM Skills Academy](mailto:ibmsaus@us.ibm.com)
