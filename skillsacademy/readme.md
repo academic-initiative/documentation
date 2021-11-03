@@ -3,7 +3,7 @@
 WELCOME MESSAGE
 
 ## Contents
-System Preferences
+- (System Preferences)[#System-Preferences]
 Step 1: Cloud Access
 Step 2: Design Thinking
 Step 3: IBM Skills Academy Portal 
