@@ -3,20 +3,20 @@
 WELCOME MESSAGE
 
 ## Contents
-- (System Preferences)[#System-Preferences]
-Step 1: Cloud Access
-Step 2: Design Thinking
-Step 3: IBM Skills Academy Portal 
-Step 4: Slack
-Step 5: Webex
-Step 6: Mural
+- [System Preferences](#system-preferences)
+- [Step 1: Cloud Access](#step-1-cloud-access)
+- [Step 2: Design Thinking](#step-2-design-thinking)
+- [Step 3: IBM Skills Academy Portal](#step-3-ibm-skills-academy-portal-access)
+- [Step 4: Slack](#step-4-slack)
+- [Step 5: Webex](#step-5-webex)
+- [Step 6: Mural](#step-6-mural)
 
 ## System Preferences
 Your operating system, web browser, and extensions should be up-to-date. Best results we recommend using the Firefox browser. 
 
 ## Step 1: Cloud Access
 
-If you are in the XXX, YYY. ZZZ courses please use the following instructions to register for [IBM Cloud access](https://ibm.biz/sacloud) otherwise you can skip to Step 2.
+If you are in the Cloud, Internet of Thing, Artificial Intelligence, Data Science courses please use the following instructions to register for [IBM Cloud access](https://ibm.biz/sacloud) otherwise you can skip to [Step 2](#step-2-design-thinking).
 
 ## Step 2: Design Thinking
 
@@ -24,47 +24,28 @@ If you are in the XXX, YYY. ZZZ courses please use the following instructions to
 
 1. Visit the Enterprise Design Thinking website to take the 2-hour Design Thinking Practitioners Course: https://www.ibm.com/design/thinking/page/courses/Practitioner
 
-IMAGE
-
 2. Login with your IBMid
-
-IMAGE
 
 3. Take the Enterprise Design Thinking Practitioner's Course
 
-IMAGE
 
 **NOTE**: If you receive a message stating “_Your email does not match a registered account_” click on the **Try it for free** link. Then answer “_To learn the basics of design thinking_” to the question “_Why are you interested in the online learning platform_”
 
 4. Click "Get Started"
 
-IMAGE
-
 5. Click "Start Learning"
-
-IMAGE
 
 ## Step 3: IBM Skills Academy Portal Access
 
 1. Visit the IBM Skills Academy Portal: https://skills-academy.comprehend.ibm.com/?r
 
-IMAGE
-
 2. Click "Authorized Members Access Here" (blue bar)
-
-IMAGE
 
 3. Log in with your IBMid
 
-IMAGE
-
 4. Click "_Access your learning dashboard here_" (blue bar)
 
-IMAGE
-
 5. Click "_Apply token_" (near the top of the page). Your token will be provided in a separate email from IBM Skills Academy
-
-IMAGE
 
 ## Step 4: Slack
 
