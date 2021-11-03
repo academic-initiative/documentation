@@ -71,4 +71,4 @@ https://support.mural.co/en/collections/1571402-tutorials
 - Adding content to a MURAL (2:51 min) 
 
 ## Support
-For assistance please contact [IBM Skills Academy](ibmsaus@us.ibm.com)
+For assistance please contact [IBM Skills Academy](mailto:ibmsaus@us.ibm.com)
