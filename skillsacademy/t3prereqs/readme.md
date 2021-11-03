@@ -19,13 +19,12 @@ An IBMid will be used in future steps below. Go to the following URL and follow 
 **IMPORTANT**:  When asked for an e-mail id you must use your institution authorized email for your IBMid.
  
 ## Step 2: Cloud Access 
-If you are participating in the Artificial Intelligence, Data Science, Cloud Computing, or Internet of Things Course please use [these instructions](https://ibm.biz/sacloud) to register for IBM Cloud access.  All others can skip to [step 3]().
+If you are participating in the Artificial Intelligence, Data Science, Cloud Computing, or Internet of Things Course please use [these instructions](https://ibm.biz/sacloud) to register for IBM Cloud access.  All others can skip to [step 3](#step-3-portal-access---ibm-skills-academy).
 
 **IMPORTANT**:  You will be required to apply a "feature code". You will receive an email from IBM Skills Academy with your unique "feature code" on the Friday before the start of the workshop
 
 ## Step 3: Portal Access - IBM Skills Academy
-To access the IBM Skills Academy Portal go to the following URL:  
-https://skills-academy.comprehend.ibm.com/?r
+To access the IBM Skills Academy Portal go to the following URL: https://skills-academy.comprehend.ibm.com/?r
 
 1. Select "Authorized Members Access Here" (blue bar) 
 2. Log in with your IBMid 
@@ -60,7 +59,7 @@ Webex how to join link: 
 https://help.webex.com/en-us/ozygebb/Join-a-Cisco-Webex-Meeting
 
 ## Step 6: Slack
-You will receive an email from the Slack Messing Tool with details to join the slack channel.  Follow the instructions to join and introduce yourself to the channel.  For more information visit: https://slack.com/help/articles/360002034727-gettingstarted-for-guests
+You will receive an email from the Slack Messaging Tool with details to join the slack channel.  Follow the instructions to join and introduce yourself to the channel.  For more information visit: https://slack.com/help/articles/360002034727-gettingstarted-for-guests
 
 ## Step 7: Mural
 We will be using Mural, a visual collaboration platform, and ask that you please review the first (3) videos provided in the link below:
