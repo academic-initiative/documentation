@@ -1,7 +1,7 @@
 # How to Create an IBM Cloud Account 
 
 **Objective:** The purpose of this guide is to walk you through the steps to be followed 
-when creating an IBM Cloud Account.  This guide will assume you have already [registered with the IBM Academic Initiative](/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md).
+when creating an IBM Cloud Account.  This guide will assume you have already [registered with the IBM Academic Initiative](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md).
 
 **Estimated time:** 5-10 minutes
 
