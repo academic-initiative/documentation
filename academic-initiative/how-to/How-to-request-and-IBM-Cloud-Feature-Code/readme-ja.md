@@ -14,7 +14,7 @@
 
 ![Step 1](images/step1.png) 
 
-## Step 2: 「**Already registered? Log in.**」 をクリックします。
+## Step 2: 「**Already registered? Log in**」 をクリックします。
 <br />
 
 ![Step 2](images/step2.png) 
@@ -31,17 +31,17 @@
 
 ![Step 4](images/step4.png)  
 
-## Step 5: スクロールダウンして、**Software**タブをクリックします。
+## Step 5: スクロールダウンして、「**Software**」タブをクリックします。
 <br />
 
 ![Step 5](images/step5.png)  
  
-## Step 6: **IBM Cloud Feature Code**をクリックします。
+## Step 6: 「**IBM Cloud Feature Code**」をクリックします。
 <br />
 
 ![Step 6](images/step6.png)  
 
-## Step 7: **Request Feature Code** をクリックします。
+## Step 7: 「**Request Feature Code**」 をクリックします。
 ![Step 7](images/step7.png)    
  
 ## Step 8: フィーチャー・コードが表示されます。 また、登録したメールIDにもメールで通知されます。

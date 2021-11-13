@@ -11,34 +11,34 @@
 
 ![Step 1](images/step1.png) 
 
-## Step 2:  「**Already registered? Log in.**」 をクリックします。
+## Step 2:  「**Already registered? Log in**」 をクリックします。
 <br />
 
 ![Step 2](images/step2.png) 
  
-## Step 3: BM Academic Initiativeに登録した教育機関、大学で発行されたEメールIDを入力し、ログインを行ってください。
+## Step 3: IBM Academic Initiativeに登録した教育機関、大学で発行されたEメールIDを入力し、ログインを行ってください。
 <br />
 
 ![Step 3](images/step3.png) 
  
-## Step 4: IBM Cloudのトピックページを表示します。
+## Step 4: IBM Cloudのトピック・ページを表示します。
 
 **Topics menu > IBM Cloud**をクリックすると、すぐにページに移動できます。
 <br />
 
 ![Step 4](images/step4.png) 
 
-## Step 5: スクロールダウンして、**Software**タブをクリックします。
+## Step 5: スクロールダウンして、「**Software**」タブをクリックします。
 <br />
 
 ![Step 5](images/step5.png)   
 
-## Step 6: **IBM Cloud Trial** をクリックします。
+## Step 6: 「**IBM Cloud Trial**」 をクリックします。
 <br />
 
 ![Step 6](images/step6.png)  
 
-## Step 7: **Create a Trial account**をクリックします。
+## Step 7: 「**Create a Trial account**」をクリックします。
 <br />
 
 ![Step 7](images/step7.png)  
@@ -51,7 +51,7 @@
 
 - 登録したメールアドレスに送付された検証コードを入力し、「次へ」をクリックします。
 
-**Note:** IBM Cloud はお客様のアカウントを確認するために入力したメールアドレスに確認メールを送信します。そのメールに記載された確認コードの入力が必要になります。
+**Note:** IBM Cloud はお客様のアカウントを確認するために入力したEメールアドレスに確認メールを送信します。そのメールに記載された確認コードの入力が必要になります。
 <br />
 
 ![Step 8](images/step8-ja.png) 

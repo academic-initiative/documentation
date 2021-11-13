@@ -13,7 +13,7 @@
 
 ![Step 1](images/step1.png)
 
-## Step 2: **Register Now.** をクリックします。
+## Step 2: **「Register Now」** をクリックします。
 <br />
 
 ![Step 2](images/step2.png)
@@ -39,10 +39,10 @@
 ![Step 5](images/step5a.png)
 ![Step 5b](images/step5b.png)
 
-## Step 6: IBM Academic Initiative Agreementおよびプライバシー・ステートメントをお読みになった後、 **“I agree”** をクリックしてください。
+## Step 6: IBM Academic Initiative Agreementおよびプライバシー・ステートメントをお読みになった後、 **「I agree」** をクリックしてください。
 <br />
 
-注意: **リンクをクリック**すると文章が表示されます。文章を読んだ後、“I agree”をクリックしてください。
+注意: **リンクをクリック**すると文章が表示されます。文章を読んだ後、「I agree」をクリックしてください。
 
 ![Step 6](images/step6a.png)
 ![Step 6b](images/step6b.png)
@@ -55,9 +55,9 @@
  
 ## Step 8a: IBMidでのログイン、またはIBMidの作成
 
-すでに教育機関発行のEメールIDとIBMidをお持ちの方は、同じアカウントでここでログインしていただきます。
+すでに教育機関発行のEメールIDでIBMidをお持ちの方は、同じアカウントでここでログインしていただきます。
 
-教育機関で発行されたEメールIDと一緒にIBMIDをお持ちでない方は、今回ここで、IBMIDを作成していただきます。表示される指示に従ってIBMIDを作成お願いします。
+教育機関で発行されたEメールIDのIBMIDをお持ちでない方は、今回ここでIBMIDを作成していただきます。表示される指示に従ってIBMIDを作成お願いします。
 <br />
 
 ## Step 9: IBM Academic InitiativeのWebサイトに戻り、ログインします。
