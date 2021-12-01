@@ -5,7 +5,7 @@
 このリポジトリは、[IBM Academic Initiative](https://ibm.com/academic)プログラムのハウツーや関連文書を集めたものです。 詳細については、[IBM Academic Initiative Agreement](https://www.ibm.com/academic/faqs/agreement)および[FAQ](https://www.ibm.com/academic/faqs/faqs)をご参照ください。
 
 ## General
-- [How to nominate your institution to the IBM Academic Initiative](/academic-initiative/how-to/How-to-nominate-your-institution-to-the-IBM-Academic-Initiative/readme.md)
+- [How to nominate your institution to the IBM Academic Initiative](/academic-initiative/how-to/How-to-nominate-your-institution-to-the-IBM-Academic-Initiative/README.md)
 - [IBMアカデミック・イニシアチブの登録方法](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme-ja.md)
 
 ## IBM Cloud
