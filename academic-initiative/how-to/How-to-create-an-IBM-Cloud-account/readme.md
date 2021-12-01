@@ -1,5 +1,7 @@
 # How to Create an IBM Cloud Account 
 
+[日本語](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme-ja.md)
+
 **Objective:** The purpose of this guide is to walk you through the steps to be followed 
 when creating an IBM Cloud Account.  This guide will assume you have already [registered with the IBM Academic Initiative](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md).
 
