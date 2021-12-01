@@ -1,6 +1,6 @@
 # IBM Academic Initiative Documentation
 
-[English](/academic-initiative/readme.md)
+[English](/academic-initiative/README.md)
 
 このリポジトリは、[IBM Academic Initiative](https://ibm.com/academic)プログラムのハウツーや関連文書を集めたものです。 詳細については、[IBM Academic Initiative Agreement](https://www.ibm.com/academic/faqs/agreement)および[FAQ](https://www.ibm.com/academic/faqs/faqs)をご参照ください。
 
