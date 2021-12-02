@@ -1,5 +1,8 @@
 # How to register with the IBM Academic Initiative 
 
+
+[日本語](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme-ja.md)
+
 **Objective:** The purpose of this guide is to walk you through the steps to be followed when you register as a student or a faculty member in the IBM Academic Initiative website.
 
 **Estimated time:** 5-10 minutes

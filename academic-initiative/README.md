@@ -1,5 +1,7 @@
 # IBM Academic Initiative Documentation
 
+[日本語](/academic-initiative/README-ja.md)
+
 This repository serves as a collection of how-tos and related documentation for the [IBM Academic Initiative](https://ibm.com/academic) program.  For more details refer to the [IBM Academic Initiative Agreement](https://www.ibm.com/academic/faqs/agreement) and [FAQ](https://www.ibm.com/academic/faqs/faqs)
 
 ## General
