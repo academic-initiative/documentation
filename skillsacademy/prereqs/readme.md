@@ -1,4 +1,4 @@
-# Course Pre-Requisites
+# IBM Skills Academy Course Pre-Requisites
 
 ## Contents
 - [System Preferences](#system-preferences)

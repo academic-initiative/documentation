@@ -7,4 +7,4 @@ This repository serves as a collection of how-tos and related documentation for 
 - [Creating a new IBM Cloud Trial account and extend the trial duration with an IBM Cloud Feature Code](/skillsacademy/sacloud/readme.md)
 
 ## IBM Skills Academy Courses
-- [Course Pre-Requisites](/skillsacademy/prereqs/readme.md)
+- [IBM Skills Academy Course Pre-Requisites](/skillsacademy/prereqs/readme.md)
