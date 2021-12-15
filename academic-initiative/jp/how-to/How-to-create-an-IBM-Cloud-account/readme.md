@@ -1,7 +1,5 @@
 # IBM Cloud アカウントの登録方法
 
-[English](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)
-
 **目的：** このガイドの目的は、IBM Cloud Accountを作成する際の手順を説明することです。 このガイドでは、[IBM Academic Initiativeに登録済み](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme-ja.md)であることを前提としています。
 
 **推定所要時間：** 5-10分

@@ -1,8 +1,5 @@
 # IBMアカデミック・イニシアチブの登録方法
 
-
-[English](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)
-
 **目的：** このガイドの目的は、IBMアカデミック・イニシアチブのウェブサイトに学生または教員として登録する際の手順を説明することです。
 
 
