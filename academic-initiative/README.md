@@ -1,17 +1,15 @@
 # IBM Academic Initiative Documentation
 
-[日本語](/academic-initiative/README-ja.md)
-
 This repository serves as a collection of how-tos and related documentation for the [IBM Academic Initiative](https://ibm.com/academic) program.  For more details refer to the [IBM Academic Initiative Agreement](https://www.ibm.com/academic/faqs/agreement) and [FAQ](https://www.ibm.com/academic/faqs/faqs)
 
 ## General
 - [How to nominate your institution to the IBM Academic Initiative](/academic-initiative/how-to/How-to-nominate-your-institution-to-the-IBM-Academic-Initiative/readme.md)
-- [How to register with the IBM Academic Initiative](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)
+- [How to register with the IBM Academic Initiative](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md))
 
 ## IBM Cloud
-- [How to create an IBM Cloud account](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)
-- [How to request and IBM Cloud Feature Code](/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md)
-- [How to apply an IBM Cloud Feature Code](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md)
+- [How to create an IBM Cloud account](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-create-an-IBM-Cloud-account/readme.md))
+- [How to request and IBM Cloud Feature Code](/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md))
+- [How to apply an IBM Cloud Feature Code](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md))
 
 ## Software
 - [How to download IBM i2 Analyst's Notebook](/academic-initiative/how-to/How-to-download-IBM-i2-Analyst's-Notebook/readme.md)
