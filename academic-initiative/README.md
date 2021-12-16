@@ -12,7 +12,7 @@ This repository serves as a collection of how-tos and related documentation for 
 - [How to apply an IBM Cloud Feature Code](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md))
 
 ## Software
-- [How to download IBM i2 Analyst's Notebook](/academic-initiative/how-to/How-to-download-IBM-i2-Analyst's-Notebook/readme.md)
+- ~~[How to download IBM i2 Analyst's Notebook](/academic-initiative/how-to/How-to-download-IBM-i2-Analyst's-Notebook/readme.md)~~ Deprecated
 - [How to download IBM SPSS Modeler Premium](/academic-initiative/how-to/How-to-download-IBM-SPSS-Modeler-Premium/readme.md)
 - [How to download IBM QRadar Community Edition](/academic-initiative/how-to/How-to-download-IBM-QRadar-Community-Edition/readme.md)
 - [How to request an IBM Rhapsody license](/academic-initiative/how-to/How-to-request-an-IBM-Rhapsody-license/readme.md)
