@@ -90,6 +90,7 @@ Option: Windows download
 
 ## Step 11: Enter the Authorization Code in the SPSS Modeler Premium.
 <br />
+
 ![Step 11](images/step11.png)
 
 **Note:** For SPSS support, please reach out to our SPSS Community at:
