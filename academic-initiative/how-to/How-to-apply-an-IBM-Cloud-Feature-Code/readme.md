@@ -24,5 +24,5 @@
 ## Step 6: Scroll down until you see the 'Subscription and Feature Code' section and click on Apply Code button.
 ![Step 6](images/step6.png)
 
-## Step 7: Enter (or copy/paste) your 25-character feature code and click Apply.
+## Step 7: Enter (or copy/paste) your 32-character feature code and click Apply.
 ![Step 7](images/step7.png)
