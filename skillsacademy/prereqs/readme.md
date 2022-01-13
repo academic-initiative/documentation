@@ -25,6 +25,15 @@ To access the IBM Skills Academy Portal go to the following URL: https://skills-
 **IMPORTANT**:  You will be required to apply a "token code". Token codes have been provided to your course instructor for distribution to students.
 
 ## Step 3: Cloud Access 
-If you are participating in the **Artificial Intelligence**, **Data Science**, **Cloud Computing**, or **Internet of Things** course please use [these instructions](https://ibm.biz/sacloud) to register for IBM Cloud access.
 
-**IMPORTANT**:  You will be required to apply a "feature code" to extend your IBM Cloud trial beyond the initial 30-day limit. Students at accredited academic institutions should visit the [IBM Academic Initiative](https://www.ibm.com/academic) to [request an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) and [apply](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md).  All others, (e.g., workforce development) please contact your course instructor for an IBM Cloud Feature Code.
+If you are participating in the Artificial Intelligence, Data Science, Cloud Computing, or Internet of Things course(s) you will need an IBM Cloud account to participate in the course.
+
+### Students at accredited academic institutions
+1. [Register with the IBM Academic Initiative](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)
+2. [Create an IBM Cloud account](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)
+3. [Request an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) 
+4. [Apply the IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md)
+
+### All others, including workforce development 
+1. [Register for an IBM Cloud account](https://ibm.biz/sacloud)
+2. [Apply the IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md) provided by your course instructor or event host
