@@ -26,7 +26,7 @@ To access the IBM Skills Academy Portal go to the following URL: https://skills-
 3. Select "Access your learning dashboard here" (blue bar)
 4. Apply token (near the top of the page) 
 
-**IMPORTANT**:  You will be required to apply a "token code". Token codes have been provided to your course instructor for distribution to students.
+**IMPORTANT**:  You will be required to apply a 32-character alpha-numeric "token code". Token codes have been provided to your course instructor for distribution to students.
 
 ## Step 3: Cloud Access 
 
