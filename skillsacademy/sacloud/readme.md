@@ -43,7 +43,11 @@ From the IBM Cloud Dashboard, click on the **Manage** menu in the upper-right.  
 
 ![image9](images/step9.png)
 
-#### 3c. Enter your 32-character alpha-numeric IBM Cloud Feature Code, provided by the event host, into the text box and click on **Apply** 
+#### 3c. Enter your 32-character alpha-numeric IBM Cloud Feature Code, provided by the event host, into the text box and click on **Apply**
+<br />
+
+_Note:_ Educators and students at degree-granting accredited academic institutions may request an IBM Cloud Feature Code through the [IBM Academic Initiative](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md)
+<br />
 
 ![image10](images/step10.png)
 
