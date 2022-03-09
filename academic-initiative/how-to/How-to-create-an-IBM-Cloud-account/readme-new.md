@@ -4,6 +4,12 @@ The following guide will walk you through the steps required in order to create 
 <br />
 <br />
 
+## Prerequisites
+
+- **IBM Cloud Feature Code** - An IBM Cloud Feature Code is required in order to open a new IBM Cloud trial account.  Participants of the [IBM Academic Initiative](https://www.ibm.com/academic) may [request a code using these instructions](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md).  All others must get their code from the class or event organizer.
+<br />
+<br />
+
 ## Step 1 - Visit [cloud.ibm.com](https://cloud.ibm.com) in a web browser
 
 ![Step 1](images/step-n1.png) 
@@ -51,3 +57,5 @@ _Note: Students and educators at degree-granting accredited academic institution
 ## Step 10 - Success!
 
 ![Step 10](images/step-n10.png)
+
+## Troubleshooting
