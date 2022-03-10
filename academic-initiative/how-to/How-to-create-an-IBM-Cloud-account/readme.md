@@ -22,7 +22,7 @@ The following guide will walk you through the steps required in order to create 
 
 ![Step 3](images/step-n3.png) 
 
-## Step 4 - You will be emailed a verification code.  Please check your email inbox and enter the 7-digit verification code you received.  Click <span style="color:blue">**Next**</span> to proceed.
+## Step 4 - You will be emailed a verification code.  Please check your email inbox and enter the 7-digit verification code you received (example below).  Click <span style="color:blue">**Next**</span> to proceed.
 
 ![Step 4a](images/step-n4a.png)
 
