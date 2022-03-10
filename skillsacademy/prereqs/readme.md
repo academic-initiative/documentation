@@ -30,10 +30,10 @@ If you are participating in the Artificial Intelligence, Data Science, Cloud Com
 
 ### Students at accredited academic institutions
 1. [Register with the IBM Academic Initiative](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)
-2. [Create an IBM Cloud account](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)
-3. [Request an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) 
-4. [Apply the IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md)
+2. [Request an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) 
+3. [Create an IBM Cloud account](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)
+
 
 ### All others, including workforce development 
-1. [Register for an IBM Cloud account](https://ibm.biz/sacloud)
-2. [Apply the IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md) provided by your course instructor or event host
+1. Receive an IBM Cloud Feature Code from your event or class host
+1. [Create an IBM Cloud account](https://ibm.biz/sacloud)
