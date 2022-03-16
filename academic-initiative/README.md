@@ -8,6 +8,7 @@ This repository serves as a collection of how-tos and related documentation for 
 
 ## IBM Cloud
 - [How to create an IBM Cloud account](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)
+- How to create an IBM Cloud account with feature code ([日本語](/academic-initiative/jp/how-to/How-to-create-an-IBM-Cloud-account-with-feature-code/readme.md))
 - [How to request and IBM Cloud Feature Code](/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md))
 - [How to apply an IBM Cloud Feature Code](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md))
 
