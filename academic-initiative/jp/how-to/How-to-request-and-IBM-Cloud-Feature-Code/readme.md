@@ -39,6 +39,8 @@
 ![Step 6](images/step6.png)  
 
 ## Step 7: 「**Request Feature Code**」 をクリックします。
+
+**Request Feature Code** がない場合は、**Register or login to access this resource**をクリックしてログインしてください。
 ![Step 7](images/step7.png)    
  
 ## Step 8: フィーチャー・コードが表示されます。 また、登録したメールIDにもメールで通知されます。
