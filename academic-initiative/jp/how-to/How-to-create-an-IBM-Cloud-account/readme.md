@@ -2,7 +2,7 @@
 
 **目的：** このガイドの目的は、IBM Cloud Accountを作成する際の手順を説明することです。 
 
-**前提** このガイドは、[IBM Academic Initiativeに登録済み](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme-ja.md)で、[フィーチャー・コードを入手済み](/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md)であることを前提としています。
+**前提：** このガイドは、[IBM Academic Initiativeに登録済み](/academic-initiative/jp/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)で、[フィーチャー・コードを入手済み](/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md)であることを前提としています。
 
 **推定所要時間：** 5-10分
 
