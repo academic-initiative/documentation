@@ -1,7 +1,7 @@
 
 # IBM Cloud フィーチャー・コードのリクエスト方法
 
-**目的：** このガイドの目的は、IBM Cloud フィーチャー・コードをリクエストするための手順を説明することです。 このガイドでは、[IBM Academic Initiativeに登録済み](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme-ja.md)であることを前提としています。
+**目的：** このガイドの目的は、IBM Cloud フィーチャー・コードをリクエストするための手順を説明することです。 このガイドでは、[IBM Academic Initiativeに登録済み](/academic-initiative/jp/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)であることを前提としています。
 
 **推定所要時間：** 5-10分
 
@@ -40,12 +40,12 @@
 
 ## Step 7: 「**Request Feature Code**」 をクリックします。
 
-**Note:** **Request Feature Code** がない場合は、**Register or login to access this resource** をクリックしてログインしてください。
+**Note：** **Request Feature Code** がない場合は、**Register or login to access this resource** をクリックしてログインしてください。
 <br />
 ![Step 7](images/step7.png)    
  
 ## Step 8: フィーチャー・コードが表示されます。 また、登録したメールIDにもメールで通知されます。
 
-ここで表示（送付）されたフィーチャー・コードは[IBM Cloud アカウントの登録方法](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)または[IBM Cloud フィーチャー・コードの適用方法](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme-ja.md)で使用します。
+ここで表示（送付）されたフィーチャー・コードは[IBM Cloud アカウントの登録方法](/academic-initiative/jp/how-to/How-to-create-an-IBM-Cloud-account/readme.md)または[IBM Cloud フィーチャー・コードの適用方法](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md)で使用します。
 <br />
 ![Step 8](images/step8.png)
