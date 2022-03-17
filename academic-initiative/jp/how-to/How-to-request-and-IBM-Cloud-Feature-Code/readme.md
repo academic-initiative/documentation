@@ -23,7 +23,7 @@
 
 ## Step 4: IBM Cloudのトピックページを表示します。
 
-**Topics menu > IBM Cloud** をクリックすると、すぐにページに移動できます。
+**Topics** - **IBM Cloud** メニューをクリックすると、すぐにページに移動できます。
 <br />
 
 ![Step 4](images/step4.png)  
@@ -39,10 +39,13 @@
 ![Step 6](images/step6.png)  
 
 ## Step 7: 「**Request Feature Code**」 をクリックします。
+
+**Note:** **Request Feature Code** がない場合は、**Register or login to access this resource** をクリックしてログインしてください。
+<br />
 ![Step 7](images/step7.png)    
  
 ## Step 8: フィーチャー・コードが表示されます。 また、登録したメールIDにもメールで通知されます。
 
-ここで表示（送付）されたフィーチャー・コードは[IBM Cloud フィーチャー・コードの適用方法](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme-ja.md)で使用します。
+ここで表示（送付）されたフィーチャー・コードは[IBM Cloud アカウントの登録方法](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)または[IBM Cloud フィーチャー・コードの適用方法](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme-ja.md)で使用します。
 <br />
 ![Step 8](images/step8.png)
