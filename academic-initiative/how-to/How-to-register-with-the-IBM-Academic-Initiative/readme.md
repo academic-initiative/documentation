@@ -1,13 +1,13 @@
-# How to register with the IBM Academic Initiative 
+# How to register with IBM SkillsBuild Software Downloads 
 
 
 [日本語](/academic-initiative/jp/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)
 
-**Objective:** The purpose of this guide is to walk you through the steps to be followed when you register as a student or a faculty member in the IBM Academic Initiative website.
+**Objective:** The purpose of this guide is to walk you through the steps to be followed when you register as a student or a faculty member in the IBM SkillsBuild Software Downloads website.
 
 **Estimated time:** 5-10 minutes
 
-## Step 1: Open the [IBM Academic Initiative](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1.png)
@@ -39,7 +39,7 @@
 
 ![Step 6](images/step6.png)
 
-## Step 7: After you read the IBM Academic Initiative Agreement and Privacy Statement, click **“I agree”.**
+## Step 7: After you read the IBM SkillsBuild Software Downloads Agreement and Privacy Statement, click **“I agree”.**
 <br />
 
 ![Step 7](images/step6a.png)
@@ -54,4 +54,4 @@
 ## Step 9: If you already have an IBMid with the academic institution issued email ID, you will be asked to login with that same account now. If you do not have an IBMid along with the academic institution issued email ID, you will be asked to create one at this time.
 <br />
 
-## Step 10: Return to the IBM Academic Initiative website and login.
+## Step 10: Return to the IBM SkillsBuild Software Downloads website and login.

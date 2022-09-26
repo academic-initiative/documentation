@@ -1,10 +1,10 @@
 # How to download QRadar SIEM
 
-**Objective** The purpose of this guide is to walk you through the steps to be followed when downloading QRadar SIEM from the IBM Academic Initiative website.
+**Objective** The purpose of this guide is to walk you through the steps to be followed when downloading QRadar SIEM from the IBM SkillsBuild Software Downloads website.
 
 **Estimated time:** 5-10 minutes
 
-## Step 1: Open the [IBM Academic Initiative](http://ibm.com/academic) in a web browser.
+## Step 1: Open [IBM SkillsBuild Software Downloads](http://ibm.com/academic) in a web browser.
 <br />
 
 ![Step 1](images/step1.png)
@@ -56,7 +56,7 @@ Topics menu > See All > IBM Security
 
 ![Step 8](images/step8.png)
 
-**Note:** The terms for the IBM Academic Initiative program can be found at: 
+**Note:** The terms for the IBM SkillsBuild Software Downloads program can be found at: 
 https://www.ibm.com/academic/faqs/agreement.
 
 ## Step 9: Click Download now and save the file(s) to your local hard drive.
@@ -64,7 +64,7 @@ https://www.ibm.com/academic/faqs/agreement.
 
 ![Step 9](images/step9.png)
 
-## Step 10: Return to the IBM Academic Initiative Security topic page and request a QRadar SIEM License in the QRadar SIEM card.
+## Step 10: Return to the IBM SkillsBuild Software Downloads Security topic page and request a QRadar SIEM License in the QRadar SIEM card.
 <br />
 
 ![Step 10](images/step10.png)

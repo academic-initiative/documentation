@@ -2,11 +2,11 @@
 # Explore the IBM Software Catalog 
 
 **Objective:**
-The purpose of this guide is to walk you through the necessary steps required to explore the IBM Software Catalog made available to IBM Academic Initiative users and how you can download the artifacts.
+The purpose of this guide is to walk you through the necessary steps required to explore the IBM Software Catalog made available to IBM SkillsBuild Software Downloads users and how you can download the artifacts.
 
 **Estimated time:** 5-10 minutes
 
-## Step 1: Open the [IBM Academic Initiative](http://ibm.com/academic) in a web browser.
+## Step 1: Open the [IBM SkillsBuild Software Downloads](http://ibm.com/academic) in a web browser.
 <br />
 
 ![Step 1](images/step1.png)

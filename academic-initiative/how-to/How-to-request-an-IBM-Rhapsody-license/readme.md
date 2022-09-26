@@ -1,12 +1,12 @@
 # Hot to request an IBM Rhapsody license
 
 **Objective:**
-The purpose of this guide is to walk you through the steps to be followed when requesting Rhapsody v9.0 from the IBM Academic Initiative website.
+The purpose of this guide is to walk you through the steps to be followed when requesting Rhapsody v9.0 from the IBM SkillsBuild Software Downloads website.
 
 **Estimated time:** 5-10 minutes
 
 
-## Step 1: Open the [IBM Academic Initiative](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1.png)

@@ -1,11 +1,11 @@
 # How to request Blueworks Live access 
 
 **Objective:** 
-The purpose of this guide is to walk you through the steps to be followed when accessing Blueworks Live through the IBM Academic Initiative website.
+The purpose of this guide is to walk you through the steps to be followed when accessing Blueworks Live through the IBM SkillsBuild Software Downloads website.
 
 **Estimated time:** 5 – 10 minutes
 
-## Step 1: Open the [IBM Academic Initiative](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1.png)
@@ -42,10 +42,10 @@ Topics menu > See All > IBM Automation
 
 ![Step 6b](images/step6b.png)
 
-Please use the same IBMid that was first used to register in the IBM Academic Initiative website.
+Please use the same IBMid that was first used to register in the IBM SkillsBuild Software Downloads website.
 <br />
 
 ![Step 6c](images/step6c.png)
 
-## Step 7: Now, return to the IBM Academic Initiative tab. Then click the Request Academic Access link to request that your trial account must be converted to an academic account.
+## Step 7: Now, return to the IBM SkillsBuild Software Downloads tab. Then click the Request Academic Access link to request that your trial account must be converted to an academic account.
 ![Step 7](images/step7.png)

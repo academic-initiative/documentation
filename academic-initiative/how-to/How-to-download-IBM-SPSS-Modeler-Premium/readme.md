@@ -1,10 +1,10 @@
 # How to download SPSS Modeler Premium
 
-**Objective:** The purpose of this guide is to walk you through the steps required to login to the IBM Academic Initiative and download the SPSS Modeler Premium.
+**Objective:** The purpose of this guide is to walk you through the steps required to login to the IBM SkillsBuild Software Downloads and download the SPSS Modeler Premium.
 
 **Estimated time:** 5-10 minutes
 
-## Step 1: Open the [IBM Academic Initiative](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1.png)
@@ -67,7 +67,7 @@ Option: macOS download
 Option: Windows download
 ![Step 8b](images/step8b.png)
 
-**Note:** The terms for the IBM Academic Initiative program can be found at: 
+**Note:** The terms for the IBM SkillsBuild Software Downloads program can be found at: 
 https://www.ibm.com/academic/faqs/agreement.
 
 
@@ -81,7 +81,7 @@ Option: Windows download
 ![Step 9b](images/step9b.png)
 
 
-## Step 10: Return to the IBM Academic Initiative Data Science topic page and request an SPSS Authorization Code in the SPSS Modeler Premium card.
+## Step 10: Return to the IBM SkillsBuild Software Downloads Data Science topic page and request an SPSS Authorization Code in the SPSS Modeler Premium card.
 <br />
 
 ![Step 10](images/step10.png)
