@@ -40,7 +40,7 @@ Topics menu > See All > IBM Security
 ## Step 6: Click Download under the QRadar Community Edition tab.
 <br />
 
-![Step 6](images/step6a.png)
+![Step 6](images/step6.png)
 <br />
 
 ![Step 6b](images/step6b.png)
