@@ -22,7 +22,7 @@ The purpose of this guide is to walk you through the necessary steps required to
 ![Step 3](images/step3.png)
 
 ## Step 4: Visit any of the topic pages.
-Example - Topics menu > See All > Blockchain
+Example - Topics menu > See All > IBM Engineering
 <br />
 
 ![Step 4](images/step4.png)
