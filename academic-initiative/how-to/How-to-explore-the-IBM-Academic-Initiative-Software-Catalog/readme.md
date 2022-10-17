@@ -1,5 +1,6 @@
-
 # Explore the IBM Software Catalog 
+
+[Português](/academic-initiative/pt-br/how-to/How-to-explore-the-IBM-Academic-Initiative-Software-Catalog/readme.md);
 
 **Objective:**
 The purpose of this guide is to walk you through the necessary steps required to explore the IBM Software Catalog made available to IBM SkillsBuild Software Downloads users and how you can download the artifacts.

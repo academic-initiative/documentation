@@ -1,5 +1,7 @@
 # Hot to request an IBM Rhapsody license
 
+[Português](/academic-initiative/pt-br/how-to/How-to-request-an-IBM-Rhapsody-license/readme.md);
+
 **Objective:**
 The purpose of this guide is to walk you through the steps to be followed when requesting Rhapsody v9.0 from the IBM SkillsBuild Software Downloads website.
 

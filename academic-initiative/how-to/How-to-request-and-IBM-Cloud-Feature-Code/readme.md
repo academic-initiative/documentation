@@ -1,7 +1,7 @@
-
 # How to request an IBM Cloud Feature Code 
 
-[日本語](/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme-ja.md)
+[日本語](/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md);
 
 **Objective:** The purpose of this guide is to walk you through the steps to be followed to request an IBM Cloud Feature Code.  This guide will assume you have already [registered with IBM SkillsBuild Software Downloads](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md).
 

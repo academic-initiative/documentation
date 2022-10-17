@@ -1,5 +1,7 @@
 # How to request Blueworks Live access 
 
+[Português](/academic-initiative/pt-br/how-to/How-to-request-IBM-Blueworks-Live-access/readme.md);
+
 **Objective:** 
 The purpose of this guide is to walk you through the steps to be followed when accessing Blueworks Live through the IBM SkillsBuild Software Downloads website.
 

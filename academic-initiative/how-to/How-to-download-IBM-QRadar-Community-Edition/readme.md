@@ -1,5 +1,7 @@
 # How to download Qradar Community Edition
 
+[Português](/academic-initiative/pt-br/how-to/How-to-download-IBM-QRadar-Community-Edition/readme.md);
+
 **Objective** The purpose of this guide is to walk you through the steps to be followed when downloading Qradar 
 Community Edition from the IBM SkillsBuild Software Downloads website.
 

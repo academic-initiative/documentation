@@ -1,18 +1,18 @@
 # How to Create an IBM Cloud Account 
 
+[日本語](/academic-initiative/jp/how-to/How-to-create-an-IBM-Cloud-account/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-create-an-IBM-Cloud-account/readme.md);
+
 The following guide will walk you through the steps required in order to create a **new** IBM Cloud account.
-<br />
 <br />
 
 ## Prerequisites
 
 - **IBM Cloud Feature Code** - A 32-character alphanumeric IBM Cloud Feature Code is required in order to open a new IBM Cloud trial account.  Participants of [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic) may [request a code using these instructions](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md).  All others must get their code from the class or event organizer.
 <br />
-<br />
 
 ## Notice
 Please do not provide credit card information on IBM Cloud unless you are actively upgrading to a paid account and are willing accepting to be billed for consumed services.
-<br />
 <br />
 
 ## Step 1 - Visit [cloud.ibm.com](https://cloud.ibm.com) in a web browser

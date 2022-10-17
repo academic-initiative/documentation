@@ -1,5 +1,7 @@
 # How to download SPSS Modeler Premium
 
+[Português](/academic-initiative/pt-br/how-to/How-to-download-IBM-SPSS-Modeler-Premium/readme.md);
+
 **Objective:** The purpose of this guide is to walk you through the steps required to login to the IBM SkillsBuild Software Downloads and download the SPSS Modeler Premium.
 
 **Estimated time:** 5-10 minutes
