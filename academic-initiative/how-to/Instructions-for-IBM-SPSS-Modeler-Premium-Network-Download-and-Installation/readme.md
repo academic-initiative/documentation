@@ -1,5 +1,7 @@
 # Instructions for IBM SPSS Modeler Premium Network Download and Installation
 
+[Português](/academic-initiative/pt-br/how-to/Instructions-for-IBM-SPSS-Modeler-Premium-Network-Download-and-Installation/readme.md);
+
 Please review and follow these steps to complete the installation of IBM SPSS Modeler for your institution. 
 
 ## Determine the number of licensed uses required:

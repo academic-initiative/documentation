@@ -1,5 +1,7 @@
 # How to nominate your institution for access to IBM SkillsBuild Software Downloads 
 
+[Português](/academic-initiative/pt-br/how-to/How-to-nominate-your-institution-to-the-IBM-Academic-Initiative/readme.md);
+
 **Objective:** The purpose of this guide is to walk you through the steps to be followed 
 when nominating an academic institution to IBM SkillsBuild Software Downloads.
 

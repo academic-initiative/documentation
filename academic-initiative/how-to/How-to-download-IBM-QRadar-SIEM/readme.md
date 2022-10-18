@@ -1,5 +1,7 @@
 # How to download QRadar SIEM
 
+[Português](/academic-initiative/pt-br/how-to/How-to-download-IBM-QRadar-SIEM/readme.md);
+
 **Objective** The purpose of this guide is to walk you through the steps to be followed when downloading QRadar SIEM from the IBM SkillsBuild Software Downloads website.
 
 **Estimated time:** 5-10 minutes
