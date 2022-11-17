@@ -1,12 +1,14 @@
 # Instructions for IBM SPSS Modeler Premium Network Download and Installation
 
+[Português](/academic-initiative/pt-br/how-to/Instructions-for-IBM-SPSS-Modeler-Premium-Network-Download-and-Installation/readme.md);
+
 Please review and follow these steps to complete the installation of IBM SPSS Modeler for your institution. 
 
 ## Determine the number of licensed uses required:
-Identify the number of devices that will be licensed per SPSS License Manager (SLM) installation machine. Request the authorization code(s) be generated from your IBM Academic Initiative Liaison; codes are typically created and returned to you within 72 hours. 
+Identify the number of devices that will be licensed per SPSS License Manager (SLM) installation machine. Request the authorization code(s) be generated from the IBM SkillsBuild Software Downloads website; code requests are typically processed on Wednesdays. 
 
 ## Download the IBM SPSS License Manager (SLM):
-Once you have obtained the concurrent machine authorization code from the IBM Academic Initiative,  download the IBM SPSS Concurrent Licensing Manager from this location: 
+Once you have obtained the concurrent machine authorization code from IBM SkillsBuild Software Downloads,  download the IBM SPSS Concurrent Licensing Manager from this location: 
 
 https://ibm.ent.box.com/s/dvf8z6ek8qkd69uhykju5webtmtwx1pt
 
@@ -52,7 +54,7 @@ To complete the licensing process, Stop then Restart the Sentinel License Manage
 
 ## Download the IBM SPSS Modeler 18.x Client:
 
-From the IBM Academic Initiative website: (www.ibm.com/academic) download the SPSS Modeler Premium software the file based on OS in use:
+From the IBM SkillsBuild Software Downloads website: (www.ibm.com/academic) download the SPSS Modeler Premium software the file based on OS in use:
 
 ![Step 7](images/step7.png)
  

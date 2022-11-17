@@ -1,5 +1,8 @@
 # How to Apply an IBM Cloud Feature Code
 
+[日本語](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
+
 **Objective:** The purpose of this guide is to take you through the steps required to apply an IBM Cloud Feature Code.
 
 **Estimated time:** 5 – 10 minutes 
@@ -22,5 +25,5 @@
 ## Step 6: Scroll down until you see the 'Subscription and Feature Code' section and click on Apply Code button.
 ![Step 6](images/step6.png)
 
-## Step 7: Enter (or copy/paste) your 25-character feature code and click Apply.
+## Step 7: Enter (or copy/paste) your 32-character feature code and click Apply.
 ![Step 7](images/step7.png)

@@ -1,3 +1,3 @@
-# [IBM Academic Initiative Documentation](/academic-initiative)
+# [IBM SkillsBuild Software Downloads Documentation](/academic-initiative)
 
-# [IBM Skills Academy Documentation](/skills-academy)
+# [IBM Skills Academy Documentation](/skillsacademy)
