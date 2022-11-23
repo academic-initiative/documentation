@@ -1,6 +1,6 @@
 # Como aplicar um código IBM Cloud Feature Code
 
-[日本語](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme-ja.md)
+[日本語](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md)
 
 **Objetivo:** O objetivo deste guia é levá-lo através das etapas necessárias para aplicar um IBM Cloud Feature Code.
 
