@@ -1,11 +1,15 @@
-# IBMアカデミック・イニシアチブの登録方法
+# IBM SkillsBuild Software Downloadsの登録方法
 
-**目的：** このガイドの目的は、IBMアカデミック・イニシアチブのウェブサイトに学生または教員として登録する際の手順を説明することです。
+[English](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md);
+
+
+**目的：** このガイドの目的は、IBM SkillsBuild Software Downloadsに学生または教員として登録する際の手順を説明することです。
 
 
 **推定所要時間：** 5-10分
 
-## Step 1: [IBM Academic Initiative](https://ibm.com/academic)のWebサイトをWebブラウザで開きます。
+## Step 1: [IBM SkillsBuild Software Downloads](https://ibm.com/academic)のWebサイトをWebブラウザで開きます。
 <br />
 
 ![Step 1](images/step1.png)
@@ -36,19 +40,24 @@
 ![Step 5](images/step5a.png)
 ![Step 5b](images/step5b.png)
 
-## Step 6: IBM Academic Initiative Agreementおよびプライバシー・ステートメントをお読みになった後、 **「I agree」** をクリックしてください。
+## Step 6: [IBM Badge Program](https://www.ibm.com/training/credentials) に参加する場合は「Yes」を選択してください」
+<br />
+
+![Step 6](images/step6.png)
+
+## Step 7: IBM SkillsBuild Software Downloads Agreementおよびプライバシー・ステートメントをお読みになった後、 **「I agree」** をクリックしてください。
 <br />
 
 注意: **リンクをクリック**すると文章が表示されます。文章を読んだ後、「I agree」をクリックしてください。
 
-![Step 6](images/step6a.png)
-![Step 6b](images/step6b.png)
+![Step 7](images/step6a.png)
+![Step 7b](images/step6b.png)
  
-## Step 7: **Register** をクリックします。
+## Step 8: **Register** をクリックします。
 <br />
 
-![Step 7a](images/step7a.png)
-![Step 7b](images/step7b.png)
+![Step 8a](images/step7a.png)
+![Step 8b](images/step7b.png)
  
 ## Step 8a: IBMidでのログイン、またはIBMidの作成
 
@@ -57,4 +66,4 @@
 教育機関で発行されたEメールIDのIBMIDをお持ちでない方は、今回ここでIBMIDを作成していただきます。表示される指示に従ってIBMIDを作成お願いします。
 <br />
 
-## Step 9: IBM Academic InitiativeのWebサイトに戻り、ログインします。
+## Step 10:  IBM SkillsBuild Software DownloadsのWebサイトに戻り、ログインします。

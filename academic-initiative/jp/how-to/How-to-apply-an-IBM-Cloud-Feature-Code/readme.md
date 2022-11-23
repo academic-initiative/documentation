@@ -1,5 +1,9 @@
 # IBM Cloud フィーチャー・コードの適用方法
 
+[English](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
+
+
 **目的：** このガイドの目的は、IBM Cloud フィーチャー・コードを適用するために必要な手順を説明することです。
 
 **推定所要時間：** 5-10分 
@@ -22,5 +26,5 @@
 ## Step 6: 「サブスクリプション・コードおよびフィーチャー・コード」セクションが表示されるまで下にスクロールし、「コードの適用」ボタンをクリックします。
 ![Step 6](images/step6-ja.png)
 
-## Step 7: 25文字のフィーチャー・コードを入力（またはコピー／ペースト）し、「適用」をクリックします。
+## Step 7: 32文字のフィーチャー・コードを入力（またはコピー／ペースト）し、「適用」をクリックします。
 ![Step 7](images/step7-ja.png)
