@@ -1,5 +1,9 @@
 # IBM Cloud フィーチャー・コードの適用方法
 
+[English](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
+
+
 **目的：** このガイドの目的は、IBM Cloud フィーチャー・コードを適用するために必要な手順を説明することです。
 
 **推定所要時間：** 5-10分 
