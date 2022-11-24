@@ -59,11 +59,8 @@
 ![Step 8a](images/step7a.png)
 ![Step 8b](images/step7b.png)
  
-## Step 8a: IBMidでのログイン、またはIBMidの作成
 
-すでに教育機関発行のEメールIDでIBMidをお持ちの方は、同じアカウントでここでログインしていただきます。
-
-教育機関で発行されたEメールIDのIBMIDをお持ちでない方は、今回ここでIBMIDを作成していただきます。表示される指示に従ってIBMIDを作成お願いします。
+## Step 9: すでに教育機関発行のEメールIDでIBMidをお持ちの方は、同じアカウントでここでログインしていただきます。教育機関で発行されたEメールIDのIBMIDをお持ちでない方は、今回ここでIBMIDを作成していただきます。表示される指示に従ってIBMIDを作成お願いします。
 <br />
 
 ## Step 10:  IBM SkillsBuild Software DownloadsのWebサイトに戻り、ログインします。
