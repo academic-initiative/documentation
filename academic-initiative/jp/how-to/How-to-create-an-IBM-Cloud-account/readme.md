@@ -8,7 +8,7 @@
 
 ## 前提条件
 
-- **IBM Cloud フィーチャー・コード** -IBM Cloudのトライアルアカウントを新規に開設するためには、32文字の英数字からなるIBM Cloudフィーチャーコードが必要です。  [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic) の参加者は [このガイドを使ってコードをリクエストすることができます。](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/jp/How-to-request-and-IBM-Cloud-Feature-Code/readme.md).  それ以外の方は、クラスまたはイベント主催者からコードを入手してください。
+- **IBM Cloud フィーチャー・コード** -IBM Cloudのトライアルアカウントを新規に開設するためには、32文字の英数字からなるIBM Cloudフィーチャーコードが必要です。  [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic) の参加者は [このガイドを使ってコードをリクエストすることができます。](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md).  それ以外の方は、クラスまたはイベント主催者からコードを入手してください。
 <br />
 
 ## 注意
@@ -56,7 +56,7 @@
 <br />
 <br />
 
-## Step 9 -  <span style="color:blue">**コードの入力**</span> のテキストボックスに32文字の英数字からなるIBM Cloudフィーチャーコードを入力します。  Click <span style="color:blue">**アカウントの作成**</span> をクリックして先に進みます。
+## Step 9 -  <span style="color:blue">**コードの入力**</span> のテキストボックスに32文字の英数字からなるIBM Cloudフィーチャーコードを入力します。   <span style="color:blue">**アカウントの作成**</span> をクリックして先に進みます。
 
 _Note: 学位を授与する認定学術機関の学生および教育関係者は、 [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic)から [IBM Cloud Feature Code を入手](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) することができます。  それ以外の方は、イベント・コーディネーターからIBM Cloudフィーチャーコードを受け取ってください。_
 
