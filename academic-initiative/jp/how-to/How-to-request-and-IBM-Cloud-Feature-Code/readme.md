@@ -47,7 +47,4 @@
  
 ## Step 8: フィーチャー・コードが表示されます。 また、登録したメールIDにもメールで通知されます。
 
-ここで表示（送付）されたフィーチャー・コードは[IBM Cloud フィーチャー・コードの適用方法](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md)で使用します。
-<br />
-
 ![Step 8](images/step8.png)
