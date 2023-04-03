@@ -1,10 +1,10 @@
-# IBM Skills Academy Train-the-Trainer Workshop - Participation Pre-Requisites
+# IBM SkillsBuild for Academia Train-the-Trainer Workshop - Participation Pre-Requisites
 
 ## Contents
 - [System Preferences](#system-preferences)
 - [Step 1: IBMid](#step-1-ibmid)
 - [Step 2: Cloud Access](#step-2-cloud-access)
-- [Step 3: Portal Access - IBM Skills Academy](#step-3-portal-access---ibm-skills-academy)
+- [Step 3: Portal Access - IBM SkillsBuild for Academia](#step-3-portal-access---ibm-skills-academy)
 - [Step 4: Enterprise Design Thinking Badge](#step-4-enterprise-design-thinking-badge)
 - [Step 5: Webex](#step-5-webex)
 - [Step 6: Slack](#step-6-slack)
@@ -19,19 +19,19 @@ An IBMid will be used in future steps below. Go to the following URL and follow 
 **IMPORTANT**:  When asked for an e-mail id you must use your institution authorized email for your IBMid.
  
 ## Step 2: Cloud Access 
-If you are participating in the Artificial Intelligence, Data Science, Cloud Computing, or Internet of Things Course please use [these instructions](https://ibm.biz/sacloud) to register for IBM Cloud access.  All others can skip to [step 3](#step-3-portal-access---ibm-skills-academy).
+If you are participating in the Artificial Intelligence or Data Science courses please use [these instructions](https://ibm.biz/sacloud) to register for IBM Cloud access.  All others can skip to [step 3](#step-3-portal-access---ibm-skills-academy).
 
-**IMPORTANT**:  You will be required to apply a "feature code". You will receive an email from IBM Skills Academy with your unique "feature code" on the Friday before the start of the workshop
+**IMPORTANT**:  You will be required to apply a "feature code". You will receive an email from IBM SkillsBuild for Academia with your unique "feature code" on the Friday before the start of the workshop
 
-## Step 3: Portal Access - IBM Skills Academy
-To access the IBM Skills Academy Portal go to the following URL: https://skills-academy.comprehend.ibm.com/?r
+## Step 3: Portal Access - IBM SkillsBuild for Academia
+To access the IBM SkillsBuild for Academia Portal go to the following URL: https://skills-academy.comprehend.ibm.com/?r
 
 1. Select "Authorized Members Access Here" (blue bar) 
 2. Log in with your IBMid 
 3. Select "Access your learning dashboard here" (blue bar)
 4. Apply token (near the top of the page) 
 
-**IMPORTANT**:  You will be required to apply a "token code". You will receive an email from IBM Skills Academy with your unique "token code" on the Friday before the start of the workshop.
+**IMPORTANT**:  You will be required to apply a "token code". You will receive an email from IBM SkillsBuild for Academia with your unique "token code" on the Friday before the start of the workshop.
 
 ## Step 4: Enterprise Design Thinking Badge
 You are required to take the 2-hour online Design Thinking Practitioners Course and receive your digital badge.
@@ -71,4 +71,4 @@ https://support.mural.co/en/collections/10034-getting-started
 - [Adding content to a MURAL (2:51 min)](https://youtu.be/CmYaxcTzD6Y)
 
 ## Support
-For assistance please contact [IBM Skills Academy](mailto:ibmsaus@us.ibm.com)
+For assistance please contact [IBM SkillsBuild for Academia](mailto:ibmsaus@us.ibm.com)
