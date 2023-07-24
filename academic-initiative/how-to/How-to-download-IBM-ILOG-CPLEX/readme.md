@@ -44,7 +44,7 @@ Topics menu > See All > Data Science
 
 **Note:** When you click Download, a new tab will open. Some browsers may require the user to give permission for this tab to be operable.
 
-## Step 7: Once you open the IBM Software Download link, scroll down to Find by part number results and click the HTTP option.
+## Step 7: Once you open the IBM Software Download link, scroll down to "Find by Part Number" and click the HTTP option.
 <br />
 
 ![Step 7a](images/step7a.png)
