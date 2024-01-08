@@ -1,9 +1,9 @@
-# IBM Skills Academy Course Pre-Requisites
+# IBM SkillsBuild for Academia Course Pre-Requisites
 
 ## Contents
 - [System Preferences](#system-preferences)
 - [Step 1: IBMid](#step-1-ibmid)
-- [Step 2: Portal Access - IBM Skills Academy](#step-2-portal-access---ibm-skills-academy)
+- [Step 2: Portal Access - IBM SkillsBuild for Academia](#step-2-portal-access---ibm-skills-academy)
 - [Step 3: Cloud Access](#step-3-cloud-access)
 
 ## System Preferences
@@ -14,8 +14,8 @@ An IBMid will be used in future steps below. Go to the following URL and follow 
 
 **IMPORTANT**:  When asked for an e-mail id you must use your institution authorized email for your IBMid.
 
-## Step 2: Portal Access - IBM Skills Academy
-To access the IBM Skills Academy Portal go to the following URL: https://skills-academy.comprehend.ibm.com/?r
+## Step 2: Portal Access - IBM SkillsBuild for Academia
+To access the IBM SkillsBuild for Academia Portal go to the following URL: https://skills-academy.comprehend.ibm.com/?r
 
 1. Select "Authorized Members Access Here" (blue bar) 
 2. Log in with your IBMid 
@@ -26,13 +26,16 @@ To access the IBM Skills Academy Portal go to the following URL: https://skills-
 
 ## Step 3: Cloud Access 
 
-If you are participating in the Artificial Intelligence, Data Science, Cloud Computing, or Internet of Things course(s) you will need an IBM Cloud account to participate in the course.
+If you are participating in the Artificial Intelligence, Data Science, Cloud Computing course(s) you will need an IBM Cloud account to participate in the course.
 
 ### Students at accredited academic institutions
-1. [Register with the IBM Academic Initiative](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)
+1. [Register with the IBM SkillsBuild Software Dowloads](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)
 2. [Request an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) 
 3. [Create an IBM Cloud account](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md)
 
+#### Notice
+
+Please **do not** provide credit card information on IBM Cloud unless you are actively upgrading to a paid account and are willing accepting to be billed for consumed services.
 
 ### All others, including workforce development 
 1. Receive an IBM Cloud Feature Code from your event or class host
