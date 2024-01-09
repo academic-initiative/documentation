@@ -35,7 +35,7 @@ If you are participating in the Artificial Intelligence, Data Science, Cloud Com
 
 #### Notice
 
-Please **do not** provide credit card information on IBM Cloud unless you are actively upgrading to a paid account and are willing accepting to be billed for consumed services.
+Please do not provide credit card information on IBM Cloud unless you are actively upgrading to a paid account and are willing to accept being billed for consumed services.
 
 ### All others, including workforce development 
 1. Receive an IBM Cloud Feature Code from your event or class host

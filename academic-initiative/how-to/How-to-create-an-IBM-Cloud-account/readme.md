@@ -52,7 +52,7 @@ Please do not provide credit card information on IBM Cloud unless you are active
 ![Step 8](images/step-n8.png)
 
 ### Notice
-Please do not provide credit card information on IBM Cloud unless you are actively upgrading to a paid account and are willing accepting to be billed for consumed services.
+Please do not provide credit card information on IBM Cloud unless you are actively upgrading to a paid account and are willing to accept being billed for consumed services.
 <br />
 <br />
 
