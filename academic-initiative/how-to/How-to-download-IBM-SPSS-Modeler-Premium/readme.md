@@ -1,7 +1,5 @@
 # How to download SPSS Modeler Premium
 
-[Português](/academic-initiative/pt-br/how-to/How-to-download-IBM-SPSS-Modeler-Premium/readme.md);
-
 **Objective:** The purpose of this guide is to walk you through the steps required to login to the IBM SkillsBuild Software Downloads and download the SPSS Modeler Premium.
 
 **Estimated time:** 5-10 minutes
@@ -9,12 +7,12 @@
 ## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Step 2: Click **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
 ## Step 3: Enter your academic institution, college, university issued email ID and complete the login process.
 <br />
@@ -22,32 +20,24 @@
 ![Step 3](images/step3.png)
 
 ## Step 4: Visit the Data Science topic page.
-Topics menu > See All > Data Science
 <br />
 
-![Step 4](images/step4.png)
-![Step 4b](images/step4b.png)
-![Step 4c](images/step4c.png)
+![Step 4](images/step4n.png)
 
-## Step 5: Scroll down and click Software tab.
+## Step 6: Click the SPSS Modeler Premium tile.
 <br />
 
-![Step 5](images/step5.png)
-
-# Click the SPSS Modeler Premium tab.
-<br />
-
-![Step 5b](images/step5b.png)
+![Step 5b](images/step5nspss.png)
 
 ## Step 6a: Click the Download macOS link to download SPSS for macOS operating system.
 <br />
 
-![Step 6a](images/step6a.png)
+![Step 6a](images/step6anspss.png)
 
 ## Step 6b: Click the Download Window link to download SPSS for Windows operating system.
 <br />
 
-![Step 6b](images/step6b.png)
+![Step 6b](images/step6bnspss.png)
 
 **Note:** When you click Download, a new tab will open. Some browsers may require the user to give permission for this tab to be operable.
 
@@ -86,14 +76,14 @@ Option: Windows download
 ## Step 10: Return to the IBM SkillsBuild Software Downloads Data Science topic page and request an SPSS Authorization Code in the SPSS Modeler Premium card.
 <br />
 
-![Step 10](images/step10.png)
+![Step 10](images/step10nspss.png)
 
 **Note:**  The authorization code is necessary to activate the SPSS Modeler Premium.
 
 ## Step 11: Enter the Authorization Code in the SPSS Modeler Premium.
 <br />
 
-![Step 11](images/step11.png)
+![Step 11](images/step11nspss.png)
 
 **Note:** For SPSS support, please reach out to our SPSS Community at:
 https://developer.ibm.com/predictiveanalytics

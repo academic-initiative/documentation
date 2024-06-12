@@ -7,12 +7,12 @@
 ## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Step 2: Click **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
 ## Step 3: Enter your academic institution, college, university issued email ID and complete the login process.
 <br />
@@ -20,27 +20,20 @@
 ![Step 3](images/step3.png)
 
 ## Step 4: Visit the Data Science topic page.
-Topics menu > See All > Data Science
 <br />
 
-![Step 4](images/step4.png)
-![Step 4b](images/step4b.png)
-![Step 4c](images/step4c.png)
+![Step 4](images/step4n.png)
+![Step 4b](images/step4bn.png)
 
-## Step 5: Scroll down and click Software tab.
+# Step 5: Click the ILOG CPLEX Optimization Studio tile.
 <br />
 
-![Step 5](images/step5.png)
-
-# Step 6: Click the ILOG CPLEX Optimization Studio tile.
-<br />
-
-![Step 5b](images/step5b.png)
+![Step 5b](images/step5n.png)
 
 ## Step 6a: Click the Download link to download IBM ILOG CPLEX Optimization Studio.
 <br />
 
-![Step 6b](images/step6a.png)
+![Step 6b](images/step6n.png)
 
 **Note:** When you click Download, a new tab will open. Some browsers may require the user to give permission for this tab to be operable.
 

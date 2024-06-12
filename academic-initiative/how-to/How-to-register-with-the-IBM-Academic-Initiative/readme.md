@@ -1,8 +1,5 @@
 # How to register with IBM SkillsBuild Software Downloads 
 
-[日本語](/academic-initiative/jp/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md);
-[Português](/academic-initiative/pt-br/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md);
-
 **Objective:** The purpose of this guide is to walk you through the steps to be followed when you register as a student or a faculty member in the IBM SkillsBuild Software Downloads website.
 
 **Estimated time:** 5-10 minutes
@@ -10,12 +7,12 @@
 ## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Step 2: Click **Register Now.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
 ## Step 3: Enter your academic institution, university, college issued email ID.
 <br />
