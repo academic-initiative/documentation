@@ -9,7 +9,7 @@
 
 ![Step 1](images/step1.png)
 
-## Step 2: Click **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
 ![Step 2](images/step2.png)
