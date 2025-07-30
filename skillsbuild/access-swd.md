@@ -11,7 +11,7 @@
    - Otherwise complete the IBMid login process.
 4. If you already have an IBMid with the same college or university issued email address, you will be asked to login with that same account now.
    - If you do not have an IBMid using the same college or university issued email address, you will be redirected to the IBMid account creation page to create one.
-5. If necessary, return to academic.ibm.com and login with your newly created account.
+5. If necessary, return to [academic.ibm.com](https://academic.ibm.com) and login with your newly created account.
 
 ###  🏁 You’re In!
 - Explore the software and resources available to you.
