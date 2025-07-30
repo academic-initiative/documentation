@@ -17,3 +17,4 @@
 - Explore the software and resources available to you.
 - Looking for more guides [click here](https://github.com/academic-initiative/documentation/tree/main/academic-initiative) 
 
+![SWD Homepage](images/Screenshot 2025-07-15 at 08.32.09.png)
