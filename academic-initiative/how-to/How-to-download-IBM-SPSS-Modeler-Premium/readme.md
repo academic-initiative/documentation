@@ -45,19 +45,19 @@
 <br />
 
 Option: macOS download
-![Step 7a](images/step7a.png)
+![Step 7a](images/spss-mac-partnumber.png)
 
 Option: Windows download
-![Step 7b](images/step7b.png)
+![Step 7b](images/spss-windows-partnumber.png)
 
 ## Step 8: Select the image to download and after you read and understand the license agreement, click “I agree”.
 <br />
 
 Option: macOS download
-![Step 8a](images/step8a.png)
+![Step 8a](images/spss-mac-options.png)
 
 Option: Windows download
-![Step 8b](images/step8b.png)
+![Step 8b](images/spss-windows-options.png)
 
 **Note:** The terms for the IBM SkillsBuild Software Downloads program can be found at: 
 https://www.ibm.com/academic/faqs/agreement.
