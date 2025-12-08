@@ -1,10 +1,9 @@
 # Watsonx Orchestrate
-#2-area/skillsbuild
 
 # Create an IBM Cloud Account¶
-**New Users:** Register at [https://cloud.ibm.com/registration?cm_sp=academicsb](https://cloud.ibm.com/registration?cm_sp=academicsb)
+**New Users:**  Register at [https://cloud.ibm.com/registration?cm_sp=academicsb](https://cloud.ibm.com/registration?cm_sp=academicsb)
 
-**Existing Users:** If you already have an IBM Cloud account, simply log in at [https://cloud.ibm.com](https://cloud.ibm.com/) to continue with the setup.
+**Existing Users:**  If you already have an IBM Cloud account, simply log in at [https://cloud.ibm.com](https://cloud.ibm.com/) to continue with the setup.
 
 For more information, see [IBM Cloud – Getting Started](https://cloud.ibm.com/docs/account?topic=account-account-getting-started)
 
@@ -18,7 +17,7 @@ For more information, see [IBM Cloud – Getting Started](https://cloud.ibm.com/
 * After completing the sign-up, you'll be redirected to the Watsonx Orchestrate workspace. You may receive a welcome email with getting started resources.
 
 # Create and Configure Projects in watsonx.ai
-* Log in to the [IBM WatsonX.ai](https://dataplatform.cloud.ibm.com/wx/home?context=wx) platform with your credentials.
+* Log in to the [IBM Watsonx.ai](https://dataplatform.cloud.ibm.com/wx/home?context=wx) platform with your credentials.
 
 * **Option 1: Sandbox Project** (Recommended for New Users)
   * If no project exist, click Create sandbox project.
@@ -34,17 +33,17 @@ For more information, see [IBM Cloud – Getting Started](https://cloud.ibm.com/
 * Sandbox projects come with the runtime service pre-associated.
 * For **custom projects**, after creation:
   * The project must have an associated watsonx.ai Runtime service instance. Otherwise, you might be prompted to associate the service when you open the Prompt/Agent Lab.
-  * For detailed instructions on how to associate the runtime service manually, see the official docs: [Associate Watsonx.ai Runtime service to your project](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/assoc-services.html?context=wx&audience=wdp&locale=en)
+  * For detailed instructions on how to associate the runtime service manually, see the official docs: [Associate watsonx.ai Runtime service to your project](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/assoc-services.html?context=wx&audience=wdp&locale=en)
 * Without this, features like Prompt Lab and Agent Builder will be inaccessible.
 
-# Understanding IBM Watsonx Orchestrate
-IBM Watsonx Orchestrate is an AI-powered digital worker platform that helps automate repetitive, multi-step tasks across different business tools—without requiring coding. It allows employees to offload tasks to AI "digital workers" that act like virtual assistants.
+# Understanding IBM watsonx Orchestrate
+IBM watsonx Orchestrate is an AI-powered digital worker platform that helps automate repetitive, multi-step tasks across different business tools—without requiring coding. It allows employees to offload tasks to AI "digital workers" that act like virtual assistants.
 
 ### Key Concepts
-1. **Skills** - Think of these as mini-automation or actions (e.g., “Schedule a meeting,” “Generate a report”). They can connect to business apps like Slack, Microsoft Teams, SAP, Salesforce, and more.
+1. **Tools** - Think of these as mini-automation or actions (e.g., “Schedule a meeting,” “Generate a report”). They can connect to business apps like Slack, Microsoft Teams, SAP, Salesforce, and more.
 2. **Digital Workers** - AI-driven personas that perform tasks on your behalf. You can interact with them using natural language (chat-style interface).
 3. **Orchestration** - Watsonx Orchestrate coordinates multiple apps and services to complete workflows. It handles multi-step tasks, like hiring a candidate, updating a CRM, or creating a support ticket.
-4. Integration - Built-in connectors and APIs allow integration with third-party systems. Skills can be customized to match your business processes.
+4. **Integration** - Built-in connectors and APIs allow integration with third-party systems. Skills can be customized to match your business processes.
 
 ### How It Works
 User types a task in plain language (e.g., "Send an offer letter to John Smith"). Watsonx Orchestrate interprets the request using natural language understanding (NLU). Digital worker executes the task by calling the appropriate skills and tools. Results are delivered back to the user in a conversational interface or integrated platform.
