@@ -1,7 +1,7 @@
 # Watsonx Orchestrate
 
 # Create an IBM Cloud Account¶
-**New Users:**  Register at [https://cloud.ibm.com/registration?cm_sp=academicsb](https://cloud.ibm.com/registration?cm_sp=academicsb)
+**New Users:**  Register at [https://cloud.ibm.com/registration?utm_content=academicsb](https://cloud.ibm.com/registration?utm_content=academicsb)
 
 **Existing Users:**  If you already have an IBM Cloud account, simply log in at [https://cloud.ibm.com](https://cloud.ibm.com/) to continue with the setup.
 
