@@ -1,22 +1,22 @@
-# Watsonx Orchestrate
+# Getting Started with watsonx Orchestrate
 
-# Create an IBM Cloud Account¶
+## Create an IBM Cloud Account¶
 **New Users:**  Register at [https://cloud.ibm.com/registration?utm_content=academicsb](https://cloud.ibm.com/registration?utm_content=academicsb)
 
 **Existing Users:**  If you already have an IBM Cloud account, simply log in at [https://cloud.ibm.com](https://cloud.ibm.com/) to continue with the setup.
 
 For more information, see [IBM Cloud – Getting Started](https://cloud.ibm.com/docs/account?topic=account-account-getting-started)
 
-# Set Up watsonx.ai Account
+## Set Up watsonx.ai Account
 * Visit: [https://www.ibm.com/products/watsonx-ai](https://www.ibm.com/products/watsonx-ai)
 * Click **Start your free trial**
 
-# Set Up watsonx Orchestrate
+## Set Up watsonx Orchestrate
 * Go to the official IBM Watsonx Orchestrate trial page: [https://www.ibm.com/products/watson-orchestrate](https://www.ibm.com/products/watson-orchestrate)
 * Locate and click the **Free 30-day trial** or similar button.
 * After completing the sign-up, you'll be redirected to the Watsonx Orchestrate workspace. You may receive a welcome email with getting started resources.
 
-# Create and Configure Projects in watsonx.ai
+## Create and Configure Projects in watsonx.ai
 * Log in to the [IBM Watsonx.ai](https://dataplatform.cloud.ibm.com/wx/home?context=wx) platform with your credentials.
 
 * **Option 1: Sandbox Project** (Recommended for New Users)
@@ -36,7 +36,7 @@ For more information, see [IBM Cloud – Getting Started](https://cloud.ibm.com/
   * For detailed instructions on how to associate the runtime service manually, see the official docs: [Associate watsonx.ai Runtime service to your project](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/assoc-services.html?context=wx&audience=wdp&locale=en)
 * Without this, features like Prompt Lab and Agent Builder will be inaccessible.
 
-# Understanding IBM watsonx Orchestrate
+## Understanding IBM watsonx Orchestrate
 IBM watsonx Orchestrate is an AI-powered digital worker platform that helps automate repetitive, multi-step tasks across different business tools—without requiring coding. It allows employees to offload tasks to AI "digital workers" that act like virtual assistants.
 
 ### Key Concepts
@@ -62,7 +62,7 @@ User types a task in plain language (e.g., "Send an offer letter to John Smith")
 - Increases accuracy and compliance
 - Frees up employee time for strategic work
 
-# How to go about building
+## How to go about building
 1. Start with ~[Knowledge](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=agents-uploading-files-knowledge)~ (content to ask questions against a.k.a. RAG) 
 2. ~[Customize](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=agents-customizing-welcome-message-starter-prompts)~ the agent **welcome message & starter prompts** to give an idea of what it can do  
 3. Then think about **what to do** once we got the info you looked for (this is only the first step!)
@@ -83,7 +83,7 @@ User types a task in plain language (e.g., "Send an offer letter to John Smith")
 6. If you have time, you can ~[test your agent](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=agents-testing-analyzing)~ to see if the instructions & the knowledge are robust enough
 
 
-# Further Reading
+## Further Reading
 * [watsonx Orchestrate Tutorials](https://jaymig.github.io/wxo-agents/)
 * [Official watsonx Orchestrate product page](https://www.ibm.com/products/watson-orchestrate)
 * [watsonx Orchestrate Documentation](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base)
