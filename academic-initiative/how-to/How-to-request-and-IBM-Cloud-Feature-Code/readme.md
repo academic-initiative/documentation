@@ -1,11 +1,11 @@
 # How to request an IBM Cloud Feature Code 
 
-**Objective:** The purpose of this guide is to walk you through the steps to be followed to request an IBM Cloud Feature Code.  This guide will assume you have already [registered with IBM SkillsBuild Software Downloads](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md).
+**Objective:** The purpose of this guide is to walk you through the steps to be followed to request an IBM Cloud Feature Code.  This guide will assume you have already [registered with IBM SkillsBuild Technology Access](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md).
 
 **Estimated time:** 5-10 minutes
 
  
-## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1n.png)
