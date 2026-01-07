@@ -1,10 +1,10 @@
-# How to register with IBM SkillsBuild Software Downloads 
+# How to register with IBM SkillsBuild Technology Access 
 
-**Objective:** The purpose of this guide is to walk you through the steps to be followed when you register as a student or a faculty member in the IBM SkillsBuild Software Downloads website.
+**Objective:** The purpose of this guide is to walk you through the steps to be followed when you register as a student or a faculty member in the IBM SkillsBuild Technology Access website.
 
 **Estimated time:** 5-10 minutes
 
-## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1n.png)
@@ -36,7 +36,7 @@
 
 ![Step 6](images/step6.png)
 
-## Step 7: After you read the IBM SkillsBuild Software Downloads Agreement and Privacy Statement, click **“I agree”.**
+## Step 7: After you read the IBM SkillsBuild Technology Access Agreement and Privacy Statement, click **“I agree”.**
 <br />
 
 ![Step 7](images/step6a.png)
