@@ -8,7 +8,7 @@ The following guide will walk you through the steps required in order to create 
 
 ## Prerequisites
 
-- **IBM Cloud Feature Code** - A 32-character alphanumeric IBM Cloud Feature Code is required in order to open a new IBM Cloud trial account.  Participants of [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic) may [request a code using these instructions](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md).  All others must get their code from the class or event organizer.
+- **IBM Cloud Feature Code** - A 32-character alphanumeric IBM Cloud Feature Code is required in order to open a new IBM Cloud trial account.  Participants of [IBM SkillsBuild Technology Access](https://www.ibm.com/academic) may [request a code using these instructions](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md).  All others must get their code from the class or event organizer.
 <br />
 
 ## Notice
@@ -58,7 +58,7 @@ Please do not provide credit card information on IBM Cloud unless you are active
 
 ## Step 9 - Enter your 32-character IBM Cloud Feature Code in the <span style="color:blue">**Enter code**</span> text box.  Click <span style="color:blue">**Create account**</span> to proceed.
 
-_Note: Students and educators at degree-granting accredited academic institutions may [obtain an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) through [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic).  All others should receive an IBM Cloud Feature Code from their event coordinator._
+_Note: Students and educators at degree-granting accredited academic institutions may [obtain an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) through [IBM SkillsBuild Technology Access](https://www.ibm.com/academic).  All others should receive an IBM Cloud Feature Code from their event coordinator._
 
 ![Step 9a](images/step-n9a.png)
 
