@@ -1,10 +1,10 @@
 # How to download IBM ILOG CPLEX Optimization Studio
 
-**Objective:** The purpose of this guide is to walk you through the steps required to login to the IBM SkillsBuild Software Downloads website and download the IBM ILOG CPLEX Optimization Studio.
+**Objective:** The purpose of this guide is to walk you through the steps required to login to the IBM SkillsBuild Technology Access website and download the IBM ILOG CPLEX Optimization Studio.
 
 **Estimated time:** 5-10 minutes
 
-## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1n.png)
@@ -47,7 +47,7 @@
 
 ![Step 8a](images/step8a.png)
 
-**Note:** The terms for the IBM SkillsBuild Software Downloads program can be found at: 
+**Note:** The terms for the IBM SkillsBuild Technology Access program can be found at: 
 https://www.ibm.com/academic/faqs/agreement.
 
 
