@@ -86,7 +86,7 @@ User types a task in plain language (e.g., "Send an offer letter to John Smith")
 # Further Reading
 * [watsonx Orchestrate Tutorials](https://jaymig.github.io/wxo-agents/)
 * [Official watsonx Orchestrate product page](https://www.ibm.com/products/watson-orchestrate)
-* [watsonx Orchestrate Documentation](https://www.ibm.com/docs/en/watsonx-orchestrate)
+* [watsonx Orchestrate Documentation](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base)
 * [watsonx Orchestrate Community](https://community.ibm.com/community/user/groups/community-home?communitykey=3ad46381-9535-462e-85c9-568b21f4b067)
 * [Help us improve watsonx Orchestrate, submit your ideas](https://watson-orchestrate.ideas.ibm.com/)
 * [Official watsonx.ai product page](https://www.ibm.com/products/watsonx-ai)
