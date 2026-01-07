@@ -1,13 +1,13 @@
-# How to nominate your institution for access to IBM SkillsBuild Software Downloads 
+# How to nominate your institution for access to IBM SkillsBuild Technology Access 
 
 **Objective:** The purpose of this guide is to walk you through the steps to be followed 
-when nominating an academic institution to IBM SkillsBuild Software Downloads.
+when nominating an academic institution to IBM SkillsBuild Technology Access.
 
 **Estimated time:**  
 5 – 10 minutes (registration)  
 7 – 10 business days (estimated time for review)
 
-## Step 1: Open the [IBM SkillsBuild Software Downloads](https://ibm.com/academic) website in a web browser.
+## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
 <br />
 
 ![Step 1](images/step1n.png)
@@ -17,7 +17,7 @@ when nominating an academic institution to IBM SkillsBuild Software Downloads.
 
 ![Step 2](images/step2n.png)
 
-## Step 3: Enter your academic institution, university, college issued email ID.  If your institution is not a part of IBM SkillsBuild Software Downloads you will be presented with a form to complete.
+## Step 3: Enter your academic institution, university, college issued email ID.  If your institution is not a part of IBM SkillsBuild Technology Access you will be presented with a form to complete.
 <br />
 
 ![Step 3](images/step3.png)
@@ -33,12 +33,12 @@ when nominating an academic institution to IBM SkillsBuild Software Downloads.
 
 ![Step 5](images/step5.png)
 
-## Step 6: Click and review the IBM SkillsBuild Software Downloads Agreement and Privacy Statement.
+## Step 6: Click and review the IBM SkillsBuild Technology Access Agreement and Privacy Statement.
 <br />
 
 ![Step 6](images/step6.png)
 
-## Step 7: After reading the IBM SkillsBuild Software Downloads Agreement and Privacy Statement, click **Agree**.
+## Step 7: After reading the IBM SkillsBuild Technology Access Agreement and Privacy Statement, click **Agree**.
 <br />
 
 ![Step 7a](images/step7a.png)
@@ -50,4 +50,4 @@ when nominating an academic institution to IBM SkillsBuild Software Downloads.
 # Step 9: Once your registration has been processed, you will receive an email notification.
 <br />
 
-# Step 10 : If approved, return to the IBM SkillsBuild Software Downloads website and complete your registration process.
+# Step 10 : If approved, return to the IBM SkillsBuild Technology Access website and complete your registration process.
