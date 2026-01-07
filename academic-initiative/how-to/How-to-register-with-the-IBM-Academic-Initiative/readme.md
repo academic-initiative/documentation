@@ -51,4 +51,4 @@
 ## Step 9: If you already have an IBMid with the academic institution issued email ID, you will be asked to login with that same account now. If you do not have an IBMid along with the academic institution issued email ID, you will be asked to create one at this time.
 <br />
 
-## Step 10: Return to the IBM SkillsBuild Software Downloads website and login.
+## Step 10: Return to the IBM SkillsBuild Technology Access website and login.
