@@ -1,11 +1,11 @@
 # How to download Qradar Community Edition
 
 **Objective** The purpose of this guide is to walk you through the steps to be followed when downloading Qradar 
-Community Edition from the IBM SkillsBuild Software Downloads website.
+Community Edition from the IBM SkillsBuild Technology Access website.
 
 **Estimated time:** 5-10 minutes
 
-## Step 1: Open [IBM SkillsBuild Software Downloads](http://ibm.com/academic) in a web browser.
+## Step 1: Open [IBM SkillsBuild Technology Access](http://ibm.com/academic) in a web browser.
 <br />
 
 ![Step 1](images/step1n.png)
