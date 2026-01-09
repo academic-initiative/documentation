@@ -10,6 +10,7 @@ This repository serves as a collection of how-tos and related documentation for 
 - [How to create an IBM Cloud account](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-create-an-IBM-Cloud-account/readme.md), [Português](/academic-initiative/pt-br/how-to/How-to-create-an-IBM-Cloud-account/readme.md))
 - [How to request and IBM Cloud Feature Code](/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md), [Português](/academic-initiative/pt-br/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md))
 - [How to apply an IBM Cloud Feature Code](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md) ([日本語](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md), [Português](/academic-initiative/pt-br/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md))
+- [How to Create a 30-day IBM Cloud Trial Account](/academic-initiative/how-to/How-to-Create-a-30-day-IBM-Cloud-Trial-Account/readme.md)
 
 ## Software
 - [How to download IBM SPSS Modeler Premium](/academic-initiative/how-to/How-to-download-IBM-SPSS-Modeler-Premium/readme.md) ([Español](/academic-initiative/es/how-to/How-to-download-IBM-SPSS-Modeler-Premium/readme.md))
