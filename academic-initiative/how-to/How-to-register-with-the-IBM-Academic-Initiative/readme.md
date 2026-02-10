@@ -9,7 +9,7 @@
 
 ![Step 1](images/step1n.png)
 
-## Step 2: Click **Access software downloads**
+## Step 2: Click **"IBM SkillsBuild Technology Access"**
 <br />
 
 ![Step 2](images/step2n.png)
