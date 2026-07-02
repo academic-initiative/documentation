@@ -85,6 +85,5 @@ Option: Windows download
 
 ![Step 11](images/step11nspss.png)
 
-**Note:** For SPSS support, please reach out to our SPSS Community at:
-https://developer.ibm.com/predictiveanalytics
+
 
