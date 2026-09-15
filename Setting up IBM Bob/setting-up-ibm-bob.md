@@ -1,6 +1,12 @@
 # Setting Up IBM Bob — Participant Guide
 
-> ⏱️ **Complete this setup 2–3 days before the event** to avoid any delays on the day of the challenge.
+> ## ⏳ Important: Provisioning required Before You Can Use IBM Bob
+>
+> **Access to IBM Bob requires provisioning and may take time.**
+> Submit your registration as early as possible — do not wait until the day of the event.
+> **You will receive an email when your access has been provisioned.** 
+
+> ⏱️ **Complete these setup 2–3 days before the event** to avoid any delays on the day of the challenge.
 
 ---
 
@@ -49,9 +55,22 @@ IBM Bob is an AI-powered coding assistant built on a VS Code-based IDE. This gui
 
 ---
 
+## What Happens Next?
+
+After submitting your registration, here is what to expect:
+
+| Stage | What to look for |
+|---|---|
+| **1. Confirmation email** | Sent once your account has been provisioned. Check your spam folder if you don't see it. |
+| **2. Download and install** | Once provisioned go to Step 2 after you have received your confirmation email. |
+
+> 💡 **You do not need to resubmit your request or contact anyone while you are waiting.** Repeated submissions will not speed up the process.
+
+---
+
 ## Step 2: Download and Install IBM Bob
 
-Once your access is approved, download the installer from **[https://bob.ibm.com/download](https://bob.ibm.com/download)**.
+Once your access is provisioned, download the installer from **[https://bob.ibm.com/download](https://bob.ibm.com/download)**.
 
 Choose the installer that matches your operating system:
 
@@ -107,7 +126,7 @@ sudo dnf install ./IBM-Bob-linux-x64-1.105.1+bob1.0.0.rpm
 
 1. **Open IBM Bob** from your Applications folder (macOS), Start menu (Windows), or applications launcher (Linux).
 
-2. On first launch, IBM Bob will prompt you to **sign in**. Enter your IBMid credentials when prompted.
+2. On first launch, IBM Bob will prompt you to **log in**. Enter your IBMid credentials when prompted.
 
 ![image3](./images/image3.png)
 
@@ -147,11 +166,20 @@ Once logged in, you'll see the IBM Bob IDE with the **Bob chat panel** on the si
 
 ## Troubleshooting
 
-### I didn't receive my approval email
+### "Account not ready yet" message at login
+
+If you see an **"Account not ready yet"** (or similar) error when trying to sign in, there are a few possible causes:
+
+- **Provisioning is still pending** — Your account has not yet been provisioned. Wait for your confirmation email before attempting to log in.
+- **You signed in with a different IBMid** — Make sure you are using the exact email address you registered with. If you have multiple IBMids or aliases, try each one.
+
+---
+
+### I didn't receive my confirmation email
 
 - Check your spam or junk folder.
 - Ensure you did not use a disposable or temporary email address.
-- Allow up to 2–3 business days for access to be approved — this is why early registration is strongly recommended.
+- Allow up to 1 business days for access to be provisioned — this is why early registration is strongly recommended.
 
 ### Installation seems slow or Bob is not performing well
 
